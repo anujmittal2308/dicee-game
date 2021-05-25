@@ -1,0 +1,46 @@
+body {
+  background-color: rgb(25, 44, 44);
+}
+h1 {
+  text-align: center;
+  height: 2000%;
+  width: 100%;
+  position: relative;
+  left: 30px;
+  top: 75px;
+  font-size: 900px;
+  font-family: "New Rocker", cursive;
+  color: rgb(19, 163, 151);
+}
+h3 {
+  text-align: center;
+  height: 200%;
+  width: 50%;
+  position: relative;
+  left: 40px;
+  top: 75px;
+  font-size: 25px;
+  font-family: "New Rocker", cursive;
+  color: rgb(19, 163, 151);
+}
+
+.navbar-nav {
+  text-align: center;
+}
+img {
+  position: relative;
+  left: -360px;
+  top: 255px;
+}
+
+h2 {
+  text-align: center;
+  height: 200%;
+  width: 50%;
+  position: relative;
+  left: 275px;
+  top: 75px;
+  font-size: 50px;
+  font-family: "New Rocker", cursive;
+  color: rgb(19, 163, 151);
+}
